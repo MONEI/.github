@@ -1,1 +1,1 @@
-where new magic happens with digital payments 🫀
+MONEI is Southern Europe’s fastest-growing omnichannel payments platform. We help merchants in various sectors from e-commerce and physical retail to restaurants and service-based businesses sell more, save money on transaction fees, and reduce risk with our advanced payment services.
