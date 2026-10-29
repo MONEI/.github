@@ -2,6 +2,10 @@
 
 <!-- What changes and why. Link the Trello card or issue. -->
 
+<!-- Upstream PRs in other MONEI repos that must ship first, one per line, outside this comment:
+Depends-on: MONEI/<repo>#<n>
+-->
+
 ## Security impact
 
 <!-- Required (PCI DSS 6.5.1). One of:
